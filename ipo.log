@@ -1,0 +1,25 @@
+2019-08-14 11:50:19,849 [INFO][root][main.py:682] Today is 14/08/2019
+2019-08-14 11:50:19,850 [INFO][root][main.py:30] The working directory set is /Users/athorn/Desktop/IB/IPO-Doc-Web-Scraper
+2019-08-14 11:50:19,850 [INFO][root][main.py:41] Successfully created the directory /Users/athorn/Desktop/IB/IPO-Doc-Web-Scraper/listing-documents/14-08-2019 
+2019-08-14 11:50:42,348 [INFO][root][main.py:160] Opened https://www.hkexnews.hk/index.htm
+2019-08-14 11:50:42,575 [INFO][root][main.py:88] Headline Category: Successfully Selected
+2019-08-14 11:50:43,152 [INFO][root][main.py:546] Supplementary Listing Document: Successfully Selected
+2019-08-14 11:51:04,383 [INFO][root][main.py:64] Applied filters
+2019-08-14 11:51:05,394 [INFO][root][main.py:642] Supplementary Listing Documents table is empty - No matches found
+2019-08-14 11:51:05,394 [INFO][root][main.py:663] Screenshot file: /Users/athorn/Desktop/IB/IPO-Doc-Web-Scraper/listing-documents/14-08-2019/screenshot-hkexnews.png
+2019-08-14 11:51:05,907 [INFO][root][main.py:52] Screenshot Successfully Taken
+2019-08-14 11:51:05,907 [INFO][root][main.py:654] Number of Matches found: 0
+2019-08-14 11:51:06,080 [INFO][root][main.py:88] Headline Category: Successfully Selected
+2019-08-14 11:51:06,464 [INFO][root][main.py:188] Announcements and Notices: Successfully Selected
+2019-08-14 11:51:09,988 [INFO][root][main.py:64] Applied filters
+2019-08-14 11:51:11,057 [INFO][root][main.py:280] Searching for Allotment Results...
+2019-08-14 11:51:15,461 [INFO][root][main.py:320] Last document found was published on 14/08/2019
+2019-08-14 11:51:15,461 [INFO][root][main.py:336] Number of Matches found: 0
+2019-08-14 11:51:16,846 [INFO][root][main.py:453] Searching for Supplemental Information Regarding IPO...
+2019-08-14 11:51:20,921 [INFO][root][main.py:493] Last document found was published on 14/08/2019
+2019-08-14 11:51:20,921 [INFO][root][main.py:509] Number of Matches found: 0
+2019-08-14 11:51:21,980 [INFO][root][main.py:358] Searching for IPO Cancellations...
+2019-08-14 11:51:24,782 [INFO][root][main.py:414] Last document found was published on 14/08/2019
+2019-08-14 11:51:24,782 [INFO][root][main.py:430] Number of IPO found: 0
+2019-08-14 11:51:24,782 [WARNING][root][main.py:121] No New IPO Document(s) Found - No Data Retrieved
+2019-08-14 11:51:31,615 [INFO][root][notification.py:80] Connection to SMTP server successful...

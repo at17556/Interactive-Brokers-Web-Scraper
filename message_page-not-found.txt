@@ -1,0 +1,7 @@
+Error: Information Not Found
+It might be due to the website being in maintenance or the website that has been changed.
+
+Troubleshooting:
+1. Try to access the HKEXnews website and search for the listing documents manually
+2. Check the log file attached to the email
+3. Check that the element IDs from the Advanced Search have not changed

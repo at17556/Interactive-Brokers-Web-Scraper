@@ -1,0 +1,14 @@
+Dear ${PERSON_NAME},
+Here are the details of the IPO Document(s) found on HKEXnews website:
+DATE : 15/02/2018
+STOCK_CODE : 01621
+STOCK_NAME : VICO INTL HLDGS
+SUPPLEMENTAL_INFO_REGARDING_IPO_URL : https://www1.hkexnews.hk/listedco/listconews/sehk/2018/0215/ltn20180215013.pdf
+SUPPLEMENTAL_INFO_REGARDING_IPO_URL_2 : https://www1.hkexnews.hk/listedco/listconews/sehk/2018/0215/ltn20180215011.pdf
+
+
+Documents searched for: 
+   Supplementary Listing Documents 
+   Allotment Results 
+   Supplemental Information Regarding IPOs 
+   IPO Cancellations (Global Offering not to proceed) 
